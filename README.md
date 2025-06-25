@@ -2,9 +2,9 @@ Battery Management System (BMS) for Smart Energy Monitoring
 
 Overview
 This project involves the development of a microcontroller-based Battery Management System (BMS) designed to monitor and protect Li-ion battery packs in real-time. The system measures voltage, current, and temperature, providing live feedback and safety management through embedded logic.
-
+<br>
 Technologies & Components
-1)Microcontroller: Arduino Uno/Nano
+1)Microcontroller: Arduino Uno/Nano<br>
 2)Sensors:
     i)ACS712 Current Sensor
     ii)LM35 Temperature Sensor
