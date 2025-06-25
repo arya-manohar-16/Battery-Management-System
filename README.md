@@ -33,5 +33,4 @@ How It Works
 
 Circuit diagram
 
-
-
+![image alt](https://github.com/arya-manohar-16/Battery-Management-System/blob/main/image.png?raw=true)
